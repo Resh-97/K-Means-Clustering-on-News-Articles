@@ -4,6 +4,8 @@
 ### Dataset:
 -  **“NewsArticles.json”** is present at '/datasets/NewsArticles.json'
 
+![Output 1](/images/df.PNG)
+
 ### Tasks Performed:
    1. Perform K-Means clustering on the dataset and find the value of Sum of Squared Error (SSE) 
    2. Use PCA algorithm to reduce the dimension of the dataset and then perform K-means clustering on the manipulated dataset and find the value of Sum of Squared Error (SSE) 
